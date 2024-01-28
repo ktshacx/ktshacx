@@ -1,5 +1,4 @@
-# About Me:
-🔭 I’m currently working on Xyron Chain, My own blockchain<br>🌱 I’m currently learning about new Blockchain Protocols and mechanisms<br>⚡ "turn your ideas into reality through lines of code and creativity."
+⚡ "turn your ideas into reality through lines of code and creativity."
 
 
 ## 🌐 Socials:
